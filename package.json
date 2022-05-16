@@ -1,0 +1,26 @@
+{
+  "name": "busca-cep",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react": "^18.0.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.3.1",
+    "react-input-mask": "^3.0.0-alpha.2",
+    "react-toastify": "^9.0.1",
+    "sass": "^1.51.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "vite": "^2.9.7"
+  }
+}
